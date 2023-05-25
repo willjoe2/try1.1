@@ -27,5 +27,5 @@ This is the main repository for all of the projects in the course.
 
 | #  | Project | Live Demo |
 |----|---------|-----------|
-| 02 | two     | [Expanding Cards](https://example.com/expanding-cards-demo) |
+| 02 | [my page] (https://webcodegenius.com/)    | [Expanding Cards](https://example.com/expanding-cards-demo) |
 | 02 | three   | [Progress Steps](https://example.com/progress-steps-demo) |
