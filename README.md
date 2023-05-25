@@ -1,12 +1,7 @@
 
----
-title: "50 Projects in 50 Days - HTML/CSS and JavaScript"
-output:
-  html_document:
-    toc: true
----
 
-This is the main repository for all of the projects in the course.
+
+# This is the main repository for all of the projects in the course.
 
 - [Course Link](https://example.com/course-link)
 - [Course Info Website](https://example.com/course-info)
@@ -22,10 +17,10 @@ This is the main repository for all of the projects in the course.
 
 
 
-
+https://github.com/willjoe2/supreme/tree/tertiobranch
 
 
 | #  | Project | Live Demo |
 |----|---------|-----------|
-| 02 | [my page](https://webcodegenius.com/)    | [Expanding Cards](https://example.com/expanding-cards-demo) |
+| 02 | [The tertiobranch](https://github.com/willjoe2/supreme/tree/tertiobranch)   |  [my page](https://webcodegenius.com/)   |
 | 02 | three   | [Progress Steps](https://example.com/progress-steps-demo) |
